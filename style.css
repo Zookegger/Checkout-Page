@@ -262,8 +262,11 @@ button[id="btn_ApplyCoupon"] {
 
 .faded-bold {
 	font-weight: bold;
-	color: #41516ad3;
+	color: #33435cd3;
 }
+
+/* span.faded-bold, span.span.pricing {
+} */
 
 .bold,
 .price {
