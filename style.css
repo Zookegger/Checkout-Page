@@ -192,12 +192,12 @@ button[id="btn_ApplyCoupon"] {
     flex-direction: column;
 }
 
-.contact-information .header h3 {
+.contact-information .header h1 {
     margin-bottom: 20px;
     font-size: 1.25em;
 }
 
-.contact-information h4 {
+.contact-information h2 {
     margin: 8px 0;
     font-size: .85em;
     color: #303d52;
